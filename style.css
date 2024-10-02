@@ -69,3 +69,25 @@ main section img {
 .main-text button:hover {
     background-color: #db793c;
 }
+.lista-dev {
+    background-color: #0cc0df;
+    height: 500px;
+ 
+}
+.lista-dev ul {
+    display: flex;
+    justify-content: space-around;
+}
+.lista-dev li {
+    padding: 25px;
+    list-style: none;
+    text-align: center;
+}
+.lista-dev img {
+    width: 277px;
+    height: 277px;
+    border-radius: 50%;
+}
+.icon-linkedin{
+    width: 30px;
+}
