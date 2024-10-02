@@ -23,3 +23,17 @@ header li a {
     text-decoration: none;
     font-size: 20px;
 }
+main {
+    display: flex;
+    height: 600px;
+    align-items: center;
+    background-color:indianred;
+}
+main section {
+    width: 50%;
+    padding-left: 15%;
+}
+main section img {
+    border-radius: 320px 0px 320px 320px;
+}
+
