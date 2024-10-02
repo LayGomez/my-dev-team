@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+.red-hat-display {
+    font-family: "Red Hat Display", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
 body{
     margin: 0;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
@@ -31,9 +39,33 @@ main {
 }
 main section {
     width: 50%;
+}
+.main-image {
     padding-left: 15%;
 }
 main section img {
-    border-radius: 320px 0px 320px 320px;
+    border-radius: 400px 0px 400px 400px;
 }
-
+.main-text {
+    font-size: 40px;
+}
+.main-text h1 {
+    font-family: 'Red Hat Display';
+}
+.main-text p {
+    font-size: 25px;
+}
+.main-text a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.main-text button {
+    padding: 20px;
+    border-color: #ff914d;
+    border-radius: 20px;
+    background-color: #ff914d;
+}
+.main-text button:hover {
+    background-color: #db793c;
+}
