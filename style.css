@@ -46,6 +46,12 @@ main section {
 main section img {
     border-radius: 400px 0px 400px 400px;
 }
+nav button {
+    border-radius: 30px;
+    padding: 0px 10px;
+    background-color: indianred;
+    border-color: indianred ;
+}
 .main-text {
     font-size: 40px;
 }
