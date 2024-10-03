@@ -69,6 +69,12 @@ nav button {
     background-color: indianred;
     border-color: indianred ;
 }
+.contacto {
+    border-radius: 30px;
+    padding: 0px 10px;
+    background-color: indianred;
+    border-color: indianred ;
+}
 .main-text {
     font-size: 40px;
 }
